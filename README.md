@@ -1,6 +1,8 @@
 # 42 HITCHHIKER [PISCINE]
 Monday, 20 May 2025 - São Paulo, Brazil<br>
 
+![42_sao_paulo_hitchhiker](https://github.com/user-attachments/assets/7473fc66-30af-4446-8b10-9849cf987d77)
+
 ## Exercise list
 - [C 00](https://github.com/mauricioHidani/piscine_42hitchhiker/tree/main/c00)
     - [Exercise 00 ft_putchar](https://github.com/mauricioHidani/piscine_42hitchhiker/blob/main/c00/ex00/ft_putchar.c)
