@@ -2,4 +2,5 @@ ex00/ft_strcpy
 ex01/ft_strncpy
 ex02/ft_str_is_alpha
 ex03/ft_str_is_numeric
+ex04/ft_str_is_lowercase
 
