@@ -5,5 +5,6 @@ ex03/ft_str_is_numeric
 ex04/ft_str_is_lowercase
 ex05/ft_str_is_uppercase
 ex06/ft_str_is_printable
-ex07/ft_strlowcase
+ex07/ft_strupcase
+ex08/ft_strlowcase
 
