@@ -9,4 +9,5 @@ ex07/ft_strupcase
 ex08/ft_strlowcase
 ex09/ft_strcapitalize
 ex10/ft_strlcpy
+ex11/ft_putstr_non_printable
 
