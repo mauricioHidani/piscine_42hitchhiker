@@ -29,10 +29,10 @@ char	*ft_strcat(char *dest, char *src)
 
 int	main(void)
 {
-	char	text1[20] = "hello abcddd";
-	char	*text2 = "world123";
+	char	dest[20] = "hello abcddd";
+	char	*src = "world123";
 
-	ft_strcat(text1, text2);
-	printf("%s\n", text1);
+	ft_strcat(dest, src);
+	printf("%s\n", dest);
 	return (0);
 }
