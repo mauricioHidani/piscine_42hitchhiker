@@ -37,5 +37,5 @@ Monday, 20 May 2025 - São Paulo, Brazil<br>
     - [Exercise 09 ft_strcapitalize](https://github.com/mauricioHidani/piscine_42hitchhiker/blob/main/c02/ex09/ft_strcapitalize.c)
     - [Exercise 10 ft_strlcpy](https://github.com/mauricioHidani/piscine_42hitchhiker/blob/main/c02/ex10/ft_strlcpy.c)
     - [Exercise 11 ft_putstr_non_printable](https://github.com/mauricioHidani/piscine_42hitchhiker/blob/main/c02/ex11/ft_putstr_non_printable.c)
-    - [Exercise 12 ft_print_memory]()
+    - [Exercise 12 ft_print_memory](https://github.com/mauricioHidani/piscine_42hitchhiker/blob/main/c02/ex12/ft_print_memory.c)
 
