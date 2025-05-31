@@ -38,4 +38,10 @@ Monday, 20 May 2025 - São Paulo, Brazil<br>
     - [Exercise 10 ft_strlcpy](https://github.com/mauricioHidani/piscine_42hitchhiker/blob/main/c02/ex10/ft_strlcpy.c)
     - [Exercise 11 ft_putstr_non_printable](https://github.com/mauricioHidani/piscine_42hitchhiker/blob/main/c02/ex11/ft_putstr_non_printable.c)
     - [Exercise 12 ft_print_memory](https://github.com/mauricioHidani/piscine_42hitchhiker/blob/main/c02/ex12/ft_print_memory.c)
-
+- [C 03](https://github.com/mauricioHidani/piscine_42hitchhiker/tree/main/c03)
+    - [Exercise 00 ft_strcmp](https://github.com/mauricioHidani/piscine_42hitchhiker/blob/main/c03/ex00/ft_strcmp.c)
+    - [Exercise 01 ft_strncmp](https://github.com/mauricioHidani/piscine_42hitchhiker/blob/main/c03/ex01/ft_strncmp.c)
+    - [Exercise 02 ft_strcat](https://github.com/mauricioHidani/piscine_42hitchhiker/blob/main/c03/ex02/ft_strcat.c)
+    - [Exercise 03 ft_strncat](https://github.com/mauricioHidani/piscine_42hitchhiker/blob/main/c03/ex03/ft_strncat.c)
+    - [Exercise 04 ft_strstr](https://github.com/mauricioHidani/piscine_42hitchhiker/blob/main/c03/ex04/ft_strstr.c)
+    - [Exercise 05 ft_strlcat](https://github.com/mauricioHidani/piscine_42hitchhiker/blob/main/c03/ex05/ft_strlcat.c)
