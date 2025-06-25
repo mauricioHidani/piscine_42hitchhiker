@@ -62,3 +62,8 @@ Monday, 20 May 2025 - São Paulo, Brazil<br>
     - [Exercise 06 ft_is_prime](https://github.com/mauricioHidani/piscine_42hitchhiker/blob/main/c05/ex06/ft_is_prime.c)
     - [Exercise 07 ft_find_next_prime](https://github.com/mauricioHidani/piscine_42hitchhiker/blob/main/c05/ex07/ft_find_next_prime.c)
     - [Exercise 08 ft_ten_queens_puzzle](https://github.com/mauricioHidani/piscine_42hitchhiker/blob/main/c05/ex08/ft_ten_queens_puzzle.c)
+  - [C 06](https://github.com/mauricioHidani/piscine_42hitchhiker/tree/main/c06)
+      - [Exercise 00 ft_print_program_name](https://github.com/mauricioHidani/piscine_42hitchhiker/blob/main/c06/ex00/ft_print_program_name.c)
+      - [Exercise 01 ft_print_params](https://github.com/mauricioHidani/piscine_42hitchhiker/blob/main/c06/ex01/ft_print_params.c)
+      - [Exercise 02 ft_rev_params](https://github.com/mauricioHidani/piscine_42hitchhiker/blob/main/c06/ex02/ft_rev_params.c)
+      - [Exercise 03 ft_sort_params](https://github.com/mauricioHidani/piscine_42hitchhiker/blob/main/c06/ex03/ft_sort_params.c)
