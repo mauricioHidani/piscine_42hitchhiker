@@ -35,5 +35,6 @@ int	main(void)
 	char	*cpd = ft_strdup(src);
 
 	printf("original: %s, copied: %s\n", src, cpd);
+	free(cpd);
 	return (0);
 }
