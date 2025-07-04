@@ -67,3 +67,8 @@ Monday, 20 May 2025 - São Paulo, Brazil<br>
     - [Exercise 01 ft_print_params](https://github.com/mauricioHidani/piscine_42hitchhiker/blob/main/c06/ex01/ft_print_params.c)
     - [Exercise 02 ft_rev_params](https://github.com/mauricioHidani/piscine_42hitchhiker/blob/main/c06/ex02/ft_rev_params.c)
     - [Exercise 03 ft_sort_params](https://github.com/mauricioHidani/piscine_42hitchhiker/blob/main/c06/ex03/ft_sort_params.c)
+- [C 07](https://github.com/mauricioHidani/piscine_42hitchhiker/tree/main/c07)
+    - [Exercise 00 ft_strdup](https://github.com/mauricioHidani/piscine_42hitchhiker/blob/main/c07/ex00/ft_strdup.c)
+    - [Exercise 01 ft_range](https://github.com/mauricioHidani/piscine_42hitchhiker/blob/main/c07/ex01/ft_range.c)
+    - [Exercise 02 ft_ultimate_range](https://github.com/mauricioHidani/piscine_42hitchhiker/blob/main/c07/ex02/ft_ultimate_range.c)
+    - [Exercise 03 ft_strjoin](https://github.com/mauricioHidani/piscine_42hitchhiker/blob/main/c07/ex03/ft_strjoin.c)
